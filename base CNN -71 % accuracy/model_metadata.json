@@ -1,0 +1,12 @@
+{
+  "img_size": [
+    128,
+    128
+  ],
+  "num_classes": 45,
+  "batch_size": 32,
+  "test_accuracy": 0.7117778062820435,
+  "test_loss": 1.1944973468780518,
+  "epochs_trained": 50,
+  "model_file": "cnn_resisc45.keras"
+}
